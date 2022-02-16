@@ -1,6 +1,6 @@
 # Makavana Jyoti 👋
 
-<h2> Hi, I'm Makavana Jyoti, currently pursuing Masters of Computer Application  with cloud specialization</h2>
+<h2> Hi, I'm Makavana Jyoti, currently pursuing Masters of Computer Application</h2>
 </em>
 
 <br/>
